@@ -23,10 +23,8 @@ const About = ({ data }) => {
           
           <p>TeCom is a club at Al Akhawain University that specializes in everything related to science, engineering, and, as the name implies, technological topics.
 TeCom cares mostly about the passion of the members, since it does not matter whether they have previous knowledge in the field of technology.
-Our main policy is that you do not need knowledge to acquire knowledge. The{" "}
-              <a onMouseEnter={changeBackground} onMouseLeave={changeBackgroun}  
-              style={{color:"#11ABB0"}} className="smoothscroll" href="#resume" >
-                skills</a> we aim to learn as group of Tech enthusiasts will enabel us to create <a onMouseEnter={changeBackground}
+Our main policy is that you do not need knowledge to acquire knowledge. The 
+                skills we aim to learn as group of Tech enthusiasts will enabel us to create <a onMouseEnter={changeBackground}
                  onMouseLeave={changeBackgroun}  className="smoothscroll"  
                  style={{color:"#11ABB0"}}  href="#portfolio">projects</a> . </p>
           <div className="row">
