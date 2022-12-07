@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "TeCom",
+    "occupation": "",
+    "description": "I found inspiration in Coding",
+    "image": "profilepic.png",
+    "bio": "I am a dedicated, receptive and methodical individual .I am keen and very willing to learn and develop new skills .I am reliable and dependable .I have an active and dynamic approach to work and getting things done .I am determined and decisive .I identify and develop opportunities thats why I devoloped skills in a range of industries like Full Stack Developing (website programming ) , Data Analysing & Cyber Security .With this passion I have now acquired a number of certicates and was able to apply it in several projects . ",
+    "contactmessage": "Get in touch with me!",
+    "email": "tecom@aui.ma",
+    "address": {
+      "street": "",
+      "city": "Marrakech",
+      "state": "Devosphere",
+      "zip": "W3B D3V"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "92%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "96%"
+      },
+      {
+        "name": "Web Development",
+        "level": "93%"
+      },
+      {
+        "name": "SQL",
+        "level": "89%"
+      },
+      {
+        "name": "NoSql",
+        "level": "93%"
+      },
+      {
+        "name": "HTML",
+        "level": "92%"
+      },
+      {
+        "name": "CSS",
+        "level": "91%"
+      },
+      {
+        "name": "Next js",
+        "level": "94%"
+      },
+      {
+        "name": "Node js",
+        "level": "93%"
+      },
+      {
+        "name": "PERN stack",
+        "level": "94%"
+      },
+      {
+	"name":"Mern stack",
+	"level":"95%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "hulu Clone (Next JS)",
+        "category": "",
+        "image": "hulu.png",
+        "url": "https://clone-of-hulu.vercel.app/"
+      },
+      {
+        "title": "Moroccan Aroma (Node and EJS)",
+        "category": "",
+        "image": "moro2.jpeg",
+        "url": "https://moroccan-a.herokuapp.com/"
+      },
+      {
+        "title": "Fast Roll (React JS)",
+        "category": "",
+        "image": "fast.jpeg",
+        "url": "https://fastroll.netlify.app/"
+      },
+      {
+        "title": "Blogprism (Next js and Graphql)",
+        "category": "",
+        "image": "blog.jpeg",
+        "url": "https://blogprism.vercel.app/"
+      },
+      {
+        "title": "Art Nest (React and Tailwind)",
+        "category": "",
+        "image": "artnest.jpeg",
+        "url": "https://artnest.vercel.app/"
+      },
+      {
+        "title": "UAE Real Estate (Next js)",
+        "category": "",
+        "image": "real.jpeg",
+        "url": "https://uae-real-estate.vercel.app/"
+      },
+      {
+        "title": "Covid Tracker (React js)",
+        "category": "",
+        "image": "covid.png",
+        
+        "url": "https://covid19informer.netlify.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg",
+        "url": "https://www.sololearn.com/Certificate/1080-10586995/pdf/"
+      },{
+        
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Facebook_F_icon.svg",
+        "url": "https://www.sololearn.com/Certificate/1051-10586995/pdf/"
+      }
+    ]
+  }
+}
