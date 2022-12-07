@@ -17,7 +17,7 @@ function changeBackground(e) {
               
               
               <a href={testimonials.url} target="_blank" rel="noreferrer"  >
-              <img style={{height:"60px"}} alt=" "src={testimonials.image} /></a>
+              <img style={{height:"60px",width:"60px"}} alt=" "src={testimonials.image} /></a>
           
        
 
@@ -37,13 +37,14 @@ function changeBackground(e) {
           <div 
             id="portfolio-wrapper"
             
-            style={{justifyContent:"center",display:"flex",justifyContent:"space-evenly"}}
+            style={{justifyContent:"center",display:"flex",justifyContent:"space-evenly",flexDirection:"row"}}
             
           >
             {testimonials}
+            <dir>
             <a href="https://www.tiktok.com/@tecom_aui" target="_blank" rel="noreferrer"  >
-              <img style={{height:"60px"}} alt=" "src="images/tiktok-icon-black-1-logo-svgrepo-com.svg" /></a>
-            <dir></dir>
+              <img style={{height:"60px",width:"60px",marginTop:"-13px",marginRight:"20px",marginLeft:"-5px"}} alt=" "src="images/tiktok-icon-black-1-logo-svgrepo-com.svg" /></a>
+            </dir>
             
           </div>
         </div>
