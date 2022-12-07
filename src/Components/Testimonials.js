@@ -43,6 +43,7 @@ function changeBackground(e) {
             {testimonials}
             <a href="https://www.tiktok.com/@tecom_aui" target="_blank" rel="noreferrer"  >
               <img style={{height:"60px"}} alt=" "src="images/tiktok-icon-black-1-logo-svgrepo-com.svg" /></a>
+            <dir></dir>
             
           </div>
         </div>
