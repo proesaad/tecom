@@ -26,7 +26,7 @@ const Contact = ({ data }) => {
       <div className="row section-head">
         <div className="two columns header-col">
           <h1>
-           <b> <span>Get In Touch.</span> </b>
+           <b style={{ color: "white" }}> <span>Get In Touch.</span> </b>
           </h1>
         </div>
 
@@ -116,7 +116,7 @@ const Contact = ({ data }) => {
             <h4>Address email</h4>
             <p className="address">
               
-             <b> {contactEmail}</b>
+             <b style={{ color: "white" }}> {contactEmail}</b>
               
             </p>
           </div>
