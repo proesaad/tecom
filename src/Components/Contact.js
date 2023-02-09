@@ -25,9 +25,9 @@ const Contact = ({ data }) => {
     <section id="contact">
       <div className="row section-head">
         <div className="two columns header-col">
-          <h1>
-           <b style={{ color: "white" }}> <span>Get In Touch.</span> </b>
-          </h1>
+          
+           <b style={{ color: "white", fontSize: 50 }}> <span>Get In Touch.</span> </b>
+          
         </div>
 
         <div className="ten columns">
