@@ -28,15 +28,9 @@ const Portfolio = ({ data }) => {
   return (
     <section id="portfolio">
       <div className="row">
-        <div className="twelve columns collapsed">
-          <h1>Check Out Our Works.</h1>
-          <div style={{padding:"20px"}} >
-            <p style={{justifyContent:"center",display:"flex",maxWidth:"full"}} >
-        <h1> <b style={{color:"black",fontSize:"150%"}} > Coming soon ...</b></h1>
-         </p>
+         <object width="100%" height="600ex" data="event.pdf" type="application/pdf">   </object>
+
         </div>
-        </div>
-      </div>
     </section>
   );
 };
